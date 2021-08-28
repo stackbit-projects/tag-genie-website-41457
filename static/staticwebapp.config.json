@@ -29,6 +29,11 @@
             "route": "/blog/version-v3.5-released",
             "redirect": "https://taggenieapp.com/blog/tag-genie-bulk-tag-edit-for-shopify-version-v35-released",
             "statusCode": 301
+        },
+        {
+            "route": "/*",
+            "redirect": "https://taggenieapp.com/",
+            "statusCode": 301
         }
     ]
 }
