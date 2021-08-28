@@ -1,0 +1,9 @@
+{
+    "routes": [
+        {
+            "route": "/blog/version-v2.6-released",
+            "redirect": "https://taggenieapp.com/blog/version-v26-released",
+            "statusCode": 301
+        }
+    ]
+}
