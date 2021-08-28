@@ -4,6 +4,36 @@
             "route": "/blog/version-v2.6-released",
             "redirect": "https://taggenieapp.com/blog/version-v26-released",
             "statusCode": 301
+        },
+        {
+            "route": "/blog/bulk-remove-tags-for-shopify",
+            "redirect": "https://taggenieapp.com/blog/bulk-remove-tags-for-shopify",
+            "statusCode": 301
+        },
+        {
+            "route": "/blog/bulk-merge-rename-product-tags-shopify",
+            "redirect": "https://taggenieapp.com/blog/bulk-merge/rename-product-tags-for-shopify",
+            "statusCode": 301
+        },
+        {
+            "route": "/blog/prefix-product-tags-shopify",
+            "redirect": "https://taggenieapp.com/blog/prefix-product-tags-shopify",
+            "statusCode": 301
+        },
+        {
+            "route": "/blog/edit-shopify-product-tags",
+            "redirect": "https://taggenieapp.com/blog/how-to-edit-shopify-product-tags",
+            "statusCode": 301
+        },
+        {
+            "route": "/blog/version-v3.5-released",
+            "redirect": "https://taggenieapp.com/blog/tag-genie-bulk-tag-edit-for-shopify-version-v35-released",
+            "statusCode": 301
+        },
+        {
+            "route": "/*",
+            "redirect": "https://taggenieapp.com/",
+            "statusCode": 301
         }
     ]
 }
